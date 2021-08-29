@@ -300,6 +300,7 @@
 
     .zigzag3 img {
         width: 100px;
+        display: none;
     }
     /* Experience */
     #experience {
