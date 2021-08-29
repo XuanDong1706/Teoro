@@ -83,11 +83,9 @@
     .nav-contact {
         list-style: none;
         display: flex;
-        justify-content: space-evenly;
         padding: 16px;
-        margin-top: 8px;
-        -webkit-appearance: none;
-        -webkit-justify-content: space-between;
+        margin-top: 12px;
+        margin-left: 16px;
     }
 
     .nav-contact a {
