@@ -91,7 +91,7 @@
     .nav-contact a {
         color: #7a5932;
         text-decoration: none;
-        -webkit-appearance: none;
+        padding: 16px;
     }
 
     .nav-contact a:hover {
