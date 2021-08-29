@@ -86,6 +86,7 @@
         justify-content: space-evenly;
         padding: 16px;
         margin-top: 8px;
+        -webkit-appearance: none;
     }
 
     .nav-contact a {
