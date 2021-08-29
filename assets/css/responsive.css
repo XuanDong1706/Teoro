@@ -215,6 +215,7 @@
 
     .zigzag {
         bottom: 0;
+        display:none;
     }
     .zigzag img {
         width: 100px;
@@ -297,10 +298,12 @@
     #facts {
         flex-direction: column;
     }
-
+    
+    .zigzag3 {
+        display: none;
+    }
     .zigzag3 img {
         width: 100px;
-        display: none;
     }
     /* Experience */
     #experience {
