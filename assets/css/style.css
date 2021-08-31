@@ -423,7 +423,7 @@ body {
 }
 .square {
     position: absolute;
-    right: 10%;
+    right: 15%;
     bottom: 0px;
     animation: rotate 3s linear infinite;
 }
